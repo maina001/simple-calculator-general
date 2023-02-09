@@ -14,15 +14,16 @@ Installing
 Clone the repository to your local machine
 bash
 Copy code
-git clone https://github.com/[username]/html-css-js-calculator.git
+git clone https://github.com/[maina001]/html-css-js-calculator.git
 Open the index.html file in your web browser.
+
 Built With
 HTML
 CSS
 JavaScript
-Author
 
+Author
 Brian Maina
 
 License
-This project is licensed under the [Name of License] license.
+This project is licensed under the MIT license.
